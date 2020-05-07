@@ -9,6 +9,8 @@ namespace AbstractFactoryApplication.AbstractFactoryImplementation
     /// </summary>
     public interface IAutoFactory
     {
-        
+        IBody CreateBody();
+        IEngine CreateEngine();
+        ITank CreateTank();
     }
 }
