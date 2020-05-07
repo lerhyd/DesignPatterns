@@ -1,0 +1,14 @@
+C:\Repos\DesignPatterns\Creational\FactoryMethodApplication\bin\Debug\netcoreapp3.1\FactoryMethodApplication.exe
+C:\Repos\DesignPatterns\Creational\FactoryMethodApplication\bin\Debug\netcoreapp3.1\FactoryMethodApplication.deps.json
+C:\Repos\DesignPatterns\Creational\FactoryMethodApplication\bin\Debug\netcoreapp3.1\FactoryMethodApplication.runtimeconfig.json
+C:\Repos\DesignPatterns\Creational\FactoryMethodApplication\bin\Debug\netcoreapp3.1\FactoryMethodApplication.runtimeconfig.dev.json
+C:\Repos\DesignPatterns\Creational\FactoryMethodApplication\bin\Debug\netcoreapp3.1\FactoryMethodApplication.dll
+C:\Repos\DesignPatterns\Creational\FactoryMethodApplication\bin\Debug\netcoreapp3.1\FactoryMethodApplication.pdb
+C:\Repos\DesignPatterns\Creational\FactoryMethodApplication\obj\Debug\netcoreapp3.1\FactoryMethodApplication.csprojAssemblyReference.cache
+C:\Repos\DesignPatterns\Creational\FactoryMethodApplication\obj\Debug\netcoreapp3.1\FactoryMethodApplication.csproj.CoreCompileInputs.cache
+C:\Repos\DesignPatterns\Creational\FactoryMethodApplication\obj\Debug\netcoreapp3.1\FactoryMethodApplication.AssemblyInfoInputs.cache
+C:\Repos\DesignPatterns\Creational\FactoryMethodApplication\obj\Debug\netcoreapp3.1\FactoryMethodApplication.AssemblyInfo.cs
+C:\Repos\DesignPatterns\Creational\FactoryMethodApplication\obj\Debug\netcoreapp3.1\FactoryMethodApplication.dll
+C:\Repos\DesignPatterns\Creational\FactoryMethodApplication\obj\Debug\netcoreapp3.1\FactoryMethodApplication.pdb
+C:\Repos\DesignPatterns\Creational\FactoryMethodApplication\obj\Debug\netcoreapp3.1\FactoryMethodApplication.genruntimeconfig.cache
+C:\Repos\DesignPatterns\Creational\FactoryMethodApplication\bin\Debug\netcoreapp3.1\win.jpg
