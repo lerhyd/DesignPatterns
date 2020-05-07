@@ -1,0 +1,13 @@
+C:\Repos\DesignPatterns\Creational\SingletonApplication\bin\Debug\netcoreapp3.1\SingletonApplication.exe
+C:\Repos\DesignPatterns\Creational\SingletonApplication\bin\Debug\netcoreapp3.1\SingletonApplication.deps.json
+C:\Repos\DesignPatterns\Creational\SingletonApplication\bin\Debug\netcoreapp3.1\SingletonApplication.runtimeconfig.json
+C:\Repos\DesignPatterns\Creational\SingletonApplication\bin\Debug\netcoreapp3.1\SingletonApplication.runtimeconfig.dev.json
+C:\Repos\DesignPatterns\Creational\SingletonApplication\bin\Debug\netcoreapp3.1\SingletonApplication.dll
+C:\Repos\DesignPatterns\Creational\SingletonApplication\bin\Debug\netcoreapp3.1\SingletonApplication.pdb
+C:\Repos\DesignPatterns\Creational\SingletonApplication\obj\Debug\netcoreapp3.1\SingletonApplication.csprojAssemblyReference.cache
+C:\Repos\DesignPatterns\Creational\SingletonApplication\obj\Debug\netcoreapp3.1\SingletonApplication.csproj.CoreCompileInputs.cache
+C:\Repos\DesignPatterns\Creational\SingletonApplication\obj\Debug\netcoreapp3.1\SingletonApplication.AssemblyInfoInputs.cache
+C:\Repos\DesignPatterns\Creational\SingletonApplication\obj\Debug\netcoreapp3.1\SingletonApplication.AssemblyInfo.cs
+C:\Repos\DesignPatterns\Creational\SingletonApplication\obj\Debug\netcoreapp3.1\SingletonApplication.dll
+C:\Repos\DesignPatterns\Creational\SingletonApplication\obj\Debug\netcoreapp3.1\SingletonApplication.pdb
+C:\Repos\DesignPatterns\Creational\SingletonApplication\obj\Debug\netcoreapp3.1\SingletonApplication.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lerhyd\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lerhyd\\.nuget\\packages"
+    ]
+  }
+}
